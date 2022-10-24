@@ -1,5 +1,5 @@
 # CRM
-> Simple CRM model in C# using .NET 3.1 created for Programing classes.
+> Simple CRM Application in C# using .NET 3.1 created for Programing classes.
 
 ## Table of contents
 - [CRM](#crm)
